@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.todolist.TodoListApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.268 s - in com.todolist.TodoListApplicationTests

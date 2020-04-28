@@ -1,0 +1,15 @@
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/security/SecurityConfig.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/repr/UserRepr.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/persist/repo/ToDoRepository.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/service/UserService.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/repr/ToDoRepr.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/persist/entity/User.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/controllers/LoginController.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/controllers/ToDoController.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/service/ToDoService.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/persist/entity/ToDo.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/security/UserAuthService.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/security/SecurityWebApplicationInitializer.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/persist/repo/UserRepository.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/controllers/ResourceNotFoundException.java
+/home/timashvayko9/IdeaProjects/todo-list/src/main/java/com/todolist/TodoListApplication.java

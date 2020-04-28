@@ -1,0 +1,15 @@
+com/todolist/security/UserAuthService.class
+com/todolist/persist/entity/User.class
+com/todolist/persist/repo/UserRepository.class
+com/todolist/security/SecurityConfig.class
+com/todolist/persist/repo/ToDoRepository.class
+com/todolist/persist/entity/ToDo.class
+com/todolist/service/UserService.class
+com/todolist/repr/ToDoRepr.class
+com/todolist/controllers/ResourceNotFoundException.class
+com/todolist/repr/UserRepr.class
+com/todolist/TodoListApplication.class
+com/todolist/controllers/ToDoController.class
+com/todolist/security/SecurityWebApplicationInitializer.class
+com/todolist/service/ToDoService.class
+com/todolist/controllers/LoginController.class
